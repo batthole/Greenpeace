@@ -1,5 +1,5 @@
 # Name of the GitHub Actions workflow
-name: Auto
+name: Au
 
 on:
   push:
